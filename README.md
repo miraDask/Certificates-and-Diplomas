@@ -1,6 +1,4 @@
 # SoftUni-Certificates
-Certificates for completed courses at SoftUni:
-
 1. Programming Basics with C# - May 2018
 
 2.C# - Fundamentals - September 2018
