@@ -8,3 +8,5 @@
 4. C# - OOP - Feb 2019
 
 5. JS - Essentials - May 2019
+
+6. JS - Advanced - June 2019
