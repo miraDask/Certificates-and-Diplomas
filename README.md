@@ -10,3 +10,5 @@
 5. JS - Essentials - May 2019
 
 6. JS - Advanced - June 2019
+
+7. ASP.NET Core - February 2020
