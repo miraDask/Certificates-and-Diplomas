@@ -11,6 +11,8 @@
 
 6. JS - Advanced - June 2019
 
-7. C# Web Basics - January 2020
+7. JS Apps - July 2019
 
-8. ASP.NET Core - February 2020
+8. C# Web Basics - January 2020
+
+9. ASP.NET Core - February 2020
