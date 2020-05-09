@@ -1,18 +1,19 @@
 # SoftUni-Certificates
-1. Programming Basics with C# - May 2018
 
-2. C# - Fundamentals - September 2018
+## ASP.NET Core - February 2020
 
-3. C# - Advanced - January 2019
+## C# Web Basics - January 2020
 
-4. C# - OOP - Feb 2019
+## JS Apps - July 2019
 
-5. JS - Essentials - May 2019
+## JS - Advanced - June 2019
 
-6. JS - Advanced - June 2019
+## JS - Essentials - May 2019
 
-7. JS Apps - July 2019
+## C# - OOP - Feb 2019
 
-8. C# Web Basics - January 2020
+## C# - Advanced - January 2019
 
-9. ASP.NET Core - February 2020
+## C# - Fundamentals - September 2018
+
+## Programming Basics with C# - May 2018
