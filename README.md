@@ -1,5 +1,7 @@
 # SoftUni-Certificates
 
+### JS Back-End - May 2020
+
 ### ASP.NET Core - February 2020
 
 ### C# Web Basics - January 2020
@@ -14,12 +16,6 @@
 
 ### C# - Advanced - January 2019
 
-<<<<<<< .mine
-9. ASP.NET Core - February 2020
-
-10. JS Back-End - May 2020
-=======
 ### C# - Fundamentals - September 2018
 
 ### Programming Basics with C# - May 2018
->>>>>>> .theirs
