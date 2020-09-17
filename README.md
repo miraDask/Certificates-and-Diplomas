@@ -9,6 +9,10 @@ Every certificate is issued after successfully  taken exam. The student should a
 
 ### C# Web Basics - January 2020
 
+### Entity Framework Core - June 2020
+
+### Databases Basics - MS SQL Server - May 2020
+
 ### JS Apps - July 2019
 
 ### JS - Advanced - June 2019
