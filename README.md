@@ -1,6 +1,8 @@
 # SoftUni-Certificates
 Every certificate is issued after successfully  taken exam. The student should achieve score 5 and above (max score is 6) to receive certificate. Exams are with duration of 4 hours.
 
+### - [JS Web Developer - DIPLOMA of professional qualification](https://softuni.bg/Certificates/Details/88666/917f2587)
+
 ### - [ReactJS – June 2020](https://softuni.bg/Certificates/Details/87275/28842c84)
 
 ### - [JS Back-End - May 2020](https://softuni.bg/Certificates/Details/84340/f04a1784)
