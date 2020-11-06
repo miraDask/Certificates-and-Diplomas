@@ -1,5 +1,7 @@
 # SoftUni-Certificates
-Every certificate is issued after successfully  taken exam. The student should achieve score 5 and above (max score is 6) to receive certificate. Exams are with duration of 4 hours.
+Every certificate is issued after successfully taken exam(with duration of 4 hours). The student should achieve score 5 and above (max score is 6) to receive certificate.
+
+### - [C# Web Developer - DIPLOMA of professional qualification](https://softuni.bg/certificates/details/90911/87507aa9)
 
 ### - [JS Web Developer - DIPLOMA of professional qualification](https://softuni.bg/Certificates/Details/88666/917f2587)
 
